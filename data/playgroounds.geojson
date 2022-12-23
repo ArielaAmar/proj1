@@ -1,0 +1,7145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79345109041566,
+          31.252543592204614
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 4,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05dc\u05d9\u05db\u05d8\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
+        "lon": 34.79345109041566,
+        "lat": 31.252543592204614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77602744187093,
+          31.254034909956648
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 1,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 4,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "3-\u05de\u05ea\u05e7\u05df \u05d8\u05d9\u05e4\u05d5\u05e1 \u05e4\u05e8\u05d7\u05d9\u05dd, \u05e4\u05e8\u05e4\u05e8 \u05e9\u05d9\u05d5\u05d5\u05d9 \u05de\u05e9\u05e7\u05dc, \u05de\u05ea\u05e7\u05df \u05d3\u05de\u05d5\u05d9 \u05d0\u05d5\u05de\u05d2\u05d4.\n\n\u05d4\u05e7",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05d3\u05d5\u05dc\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc",
+        "lon": 34.77602744187093,
+        "lat": 31.254034909956648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78086863339394,
+          31.25307264374917
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e7\u05d3\u05d5\u05e9\u05d9 \u05d1\u05d2\u05d3\u05d3",
+        "lon": 34.78086863339394,
+        "lat": 31.25307264374917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78482887244218,
+          31.251519691247204
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05de\u05e8\u05d1\u05d3 \u05d4\u05e7\u05e1\u05de\u05d9\u05dd - \u05e1\u05d5\u05e4\u05e8 \u05e4\u05d0\u05e8\u05dd",
+        "lon": 34.78482887244218,
+        "lat": 31.251519691247204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.783029170271234,
+          31.250325363246777
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05e8\u05d1\u05d3 \u05d4\u05e7\u05e1\u05de\u05d9\u05dd 14",
+        "lon": 34.783029170271234,
+        "lat": 31.250325363246777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.782076491894834,
+          31.249352755132403
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "*\u05e0\u05d3\u05e0\u05d3\u05d4- \u05e7\u05df \u05dc\u05e6\u05d9\u05e4\u05d5\u05e8.",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d7\u05d5\u05d2\u05dc\u05d4",
+        "lon": 34.782076491894834,
+        "lat": 31.249352755132403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76371954434828,
+          31.244078823006134
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 1,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 2,
+        "other": "\u05de\u05e9\u05d5\u05dc\u05d1 \u05d1\u05e2\u05dc 6 \u05de\u05d2\u05d3\u05dc\u05d9\u05dd.",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e9\u05de\u05d7\u05d4 \u05d4\u05d5\u05dc\u05e6\u05d1\u05e8\u05d2",
+        "lon": 34.76371954434828,
+        "lat": 31.244078823006134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76727668482348,
+          31.245201843715176
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e2\u05d1\u05d3\u05ea",
+        "lon": 34.76727668482348,
+        "lat": 31.245201843715176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76397218116327,
+          31.251165291385025
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1-\u05de\u05ea\u05e7\u05df \u05db\u05d5\u05e9\u05e8/\u05d0\u05e7\u05e1\u05d8\u05e8\u05d9\u05dd.\n\n\u05de\u05e9\u05d5\u05dc\u05d1 \u05d1\u05e2\u05dc 4 \u05de\u05d2\u05d3\u05dc\u05d9\u05dd.",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d0\u05dc\u05d7\u05e8\u05d9\u05d6\u05d9",
+        "lon": 34.76397218116327,
+        "lat": 31.251165291385025
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76153324398306,
+          31.25281281506605
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d2\u05d0\u05d5\u05e0\u05d9\u05dd - \u05e7\u05d0\u05e4\u05d7",
+        "lon": 34.76153324398306,
+        "lat": 31.25281281506605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76635116574794,
+          31.24664900836838
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e9\u05d5\u05de\u05e8\u05d5\u05df",
+        "lon": 34.76635116574794,
+        "lat": 31.24664900836838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78544548374478,
+          31.234996419137904
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e9\u05dc\u05de\u05d4 \u05d8\u05e0\u05d0",
+        "lon": 34.78544548374478,
+        "lat": 31.234996419137904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78195886025499,
+          31.236967759483974
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 12,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "\u05de\u05d3\u05d5\u05d1\u05e8 \u05d1\u05e0\u05d3\u05e0\u05d3\u05ea \u05e1\u05d9\u05e8\u05d4",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05d3\u05d5\u05d3\u05d9\u05dd - \u05e9\u05d1\u05d8\u05d9\u05dd",
+        "lon": 34.78195886025499,
+        "lat": 31.236967759483974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.788040445664144,
+          31.24459857266147
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e8\u05de\u05d1\"\u05dd 52",
+        "lon": 34.788040445664144,
+        "lat": 31.24459857266147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78534172104362,
+          31.23740596014345
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05e8\u05d2\u05dc\u05d9\u05d5\u05ea \u05d4\u05d4\u05d2\u05e0\u05d4",
+        "lon": 34.78534172104362,
+        "lat": 31.23740596014345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76934459551383,
+          31.22776247015115
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1- \u05de\u05ea\u05e7\u05df \u05d0\u05e7\u05e1\u05d8\u05e8\u05d9\u05dd",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d3\u05e8\u05d5\u05e8 29",
+        "lon": 34.76934459551383,
+        "lat": 31.22776247015115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76960453694782,
+          31.22909383622608
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 1,
+        "other": "1-\u05de\u05ea\u05e7\u05df \u05d0\u05e7\u05e1\u05d8\u05e8\u05d9\u05dd",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d3\u05e8\u05d5\u05e8 17",
+        "lon": 34.76960453694782,
+        "lat": 31.22909383622608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76807191954415,
+          31.23028203987523
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d7\u05e1\u05d9\u05d3\u05d4 1",
+        "lon": 34.76807191954415,
+        "lat": 31.23028203987523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78418586960598,
+          31.251659198122837
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05e6\u05d9\u05d0\u05ea \u05d0\u05d9\u05e8\u05d5\u05e4\u05d4",
+        "lon": 34.78418586960598,
+        "lat": 31.251659198122837
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.82587337855525,
+          31.272694016866243
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e7\u05e8\u05dc \u05e0\u05d8\u05e8",
+        "lon": 34.82587337855525,
+        "lat": 31.272694016866243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80390111653753,
+          31.28458201379406
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d2\u05dc\u05d9\u05dc\u05d9 27",
+        "lon": 34.80390111653753,
+        "lat": 31.28458201379406
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.825024567666134,
+          31.272668472041417
+        ]
+      },
+      "properties": {
+        "combined1": 3,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 3,
+        "other": "5\n3-\u05db\u05e4\u05d9\u05e4\u05d5\u05ea \u05d1\u05d8\u05df\n3-\u05e9\u05d9\u05d5\u05d5\u05d9 \u05de\u05e9\u05e7\u05dc\n2-\u05de\u05ea\u05e7\u05df \u05d8\u05d9\u05e4\u05d5\u05e1\n2-\u05d7\u05e6\u05d5\u05d1\u05ea \u05db\u05d5\u05e9\u05e8\n1-\u05e1\u05d5\u05dc\u05dd",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05d5\u05d7\u05e0\u05df \u05d1\u05d3\u05e8",
+        "lon": 34.825024567666134,
+        "lat": 31.272668472041417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77990526894848,
+          31.251485530294897
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9 \u05d9\u05e2\u05dc\u05d9\u05dd",
+        "lon": 34.77990526894848,
+        "lat": 31.251485530294897
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77680564835502,
+          31.256158418106146
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d9\u05dc\u05d3\u05d9 \u05d8\u05d4\u05e8\u05df",
+        "lon": 34.77680564835502,
+        "lat": 31.256158418106146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80457063023696,
+          31.282984230172545
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e2\u05d5\u05d6\u05d9 \u05e0\u05e8\u05e7\u05d9\u05e1",
+        "lon": 34.80457063023696,
+        "lat": 31.282984230172545
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.800354841403845,
+          31.279690464534543
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "1-\u05d0\u05d9\u05e7\u05e1 \u05de\u05d9\u05e7\u05e1",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05e9\u05d4 \u05e4\u05e8\u05d9\u05d1\u05e1",
+        "lon": 34.800354841403845,
+        "lat": 31.279690464534543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79665229693191,
+          31.28100468873635
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 1,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 6,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "3\n\u05d0\u05d5\u05de\u05d2\u05d4\n\u05e4\u05d8\u05e8\u05d9\u05d4\n\u05e1\u05d1\u05d9\u05d1\u05d5\u05df",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d8\u05d9\u05d9\u05dc\u05ea \u05e2\u05de\u05d9\u05e6\u05d5\u05e8",
+        "lon": 34.79665229693191,
+        "lat": 31.28100468873635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81087408086475,
+          31.2691154742699
+        ]
+      },
+      "properties": {
+        "combined1": 2,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05d5\u05d3\u05e2\u05d9 -\u05d0\u05d1\u05e8\u05d4\u05dd \u05d4\u05e9\u05d5\u05e4\u05d8",
+        "lon": 34.81087408086475,
+        "lat": 31.2691154742699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80474744570839,
+          31.285957472395662
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1\n\u05d0\u05d9\u05e7\u05e1 \u05d0\u05e4\u05e1",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e7\u05dc\u05de\u05df \u05e4\u05d5\u05e8\u05d8",
+        "lon": 34.80474744570839,
+        "lat": 31.285957472395662
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80243567758379,
+          31.285859973888094
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d3\u05d1 \u05d1\u05e8\u05e0\u05e2",
+        "lon": 34.80243567758379,
+        "lat": 31.285859973888094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81361043580375,
+          31.270369692140108
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1\n\u05e6\u05d1\u05e2\u05d9\u05dd",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e9\u05dc\u05de\u05d4 \u05d1\u05df \u05d9\u05d5\u05e1\u05e3",
+        "lon": 34.81361043580375,
+        "lat": 31.270369692140108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81630307483761,
+          31.273300937083796
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05e8\u05d3 -\u05d0\u05dc\u05d9\u05e9\u05e8",
+        "lon": 34.81630307483761,
+        "lat": 31.273300937083796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81913884085715,
+          31.276174603494823
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 5,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1-\u05de\u05d9\u05d5\u05d7\u05d3 \u05d1\u05e2\u05dc 6 \u05de\u05d2\u05d3\u05dc\u05d9\u05dd",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05d7\u05e6\u05e5 \u05e1\u05d5\u05de\u05e1\u05d5\u05dd",
+        "Name": "\u05d9\u05e2\u05e7\u05d1 \u05d7\u05d6\u05df \u05de\u05d9\u05d9\u05d5\u05d7\u05d3",
+        "lon": 34.81913884085715,
+        "lat": 31.276174603494823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8020233178832,
+          31.27844648509923
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05dc\u05d0\u05d5 \u05e4\u05d9\u05e7\u05e8\u05d3 47",
+        "lon": 34.8020233178832,
+        "lat": 31.27844648509923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81761983325055,
+          31.273475389167672
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e6\u05d1\u05d9 \u05e8\u05df",
+        "lon": 34.81761983325055,
+        "lat": 31.273475389167672
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.824048301837344,
+          31.27670749822472
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d9\u05d9\u05d6\u05e0\u05e9\u05d8\u05d3\u05d8",
+        "lon": 34.824048301837344,
+        "lat": 31.27670749822472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.825609476070596,
+          31.275039964857086
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05dc\u05d3\u05d1\u05e8\u05d2",
+        "lon": 34.825609476070596,
+        "lat": 31.275039964857086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.82284710683953,
+          31.276807204972254
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 4,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 4,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2\n\u05de\u05ea\u05d7\n\u05d2\u05dc \u05e8\u05e5",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d1\u05e8\u05d4\u05dd \u05d0\u05de\u05d9\u05e8 \u05de\u05d5\u05dc \u05de\u05e2\u05d5\u05df \u05d9\u05dc\u05d3\u05d9\u05dd",
+        "lon": 34.82284710683953,
+        "lat": 31.276807204972254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.82359263630308,
+          31.274157056767635
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 4,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2\n\u05d4\u05d2\u05d4 \u05db\u05d5\u05d7 \n\u05d2\u05dc \u05e8\u05e5",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d3\u05d5\u05d3 \u05d9\u05dc\u05d9\u05df \u05de\u05d5\u05e8",
+        "lon": 34.82359263630308,
+        "lat": 31.274157056767635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.82438360885944,
+          31.272936707256754
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05d5\u05d7\u05e0\u05df \u05d1\u05d3\u05e8 -\u05e7\u05e8\u05dc \u05e0\u05d8\u05e8",
+        "lon": 34.82438360885944,
+        "lat": 31.272936707256754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80361778346247,
+          31.272518240939444
+        ]
+      },
+      "properties": {
+        "combined1": 2,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05de\u05d8\u05d5\u05e1",
+        "lon": 34.80361778346247,
+        "lat": 31.272518240939444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80433355910758,
+          31.28574384445467
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 2,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d2\u05dc\u05d9\u05dc\u05d9 30",
+        "lon": 34.80433355910758,
+        "lat": 31.28574384445467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78218728572938,
+          31.24692011100298
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05df \u05de\u05e8\u05d3\u05db\u05d9",
+        "lon": 34.78218728572938,
+        "lat": 31.24692011100298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78325204868936,
+          31.239955664541778
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d0\u05e4\u05e8\u05d9\u05dd \u05de\u05e7\u05dc\u05d8",
+        "lon": 34.78325204868936,
+        "lat": 31.239955664541778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78275699344312,
+          31.244305492571907
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 1,
+        "Swing": 8,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 5,
+        "omega": 0,
+        "roserose": 3,
+        "other": "\u05de\u05d9\u05d5\u05d7\u05d3- 6 \u05de\u05d2\u05d3\u05dc\u05d9\u05dd\n4 \u05e9\u05d5\u05e0\u05d5\u05ea \n\u05d4\u05d2\u05d4\n\u05de\u05ea\u05e7\u05df \u05e1\u05dc\n\u05d4\u05dc\u05d9\u05e7\u05d5\u05e4\u05d8\u05e8\n\u05e7\u05e8\u05d5\u05e1\u05dc\u05d4 \u05e1\u05d1\u05d9\u05d1",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e8\u05de\u05d1\"\u05dd \u05e4\u05dc\u05de\u05d7 \u05e2\u05e6\u05de\u05d0\u05d5\u05ea",
+        "lon": 34.78275699344312,
+        "lat": 31.244305492571907
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77835522586998,
+          31.23540999295764
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e1\u05e8\u05df \u05d3\u05d1 \u05de\u05d0\u05d7\u05d5\u05e8\u05d9 \u05d1\u05d9\u05ea 9",
+        "lon": 34.77835522586998,
+        "lat": 31.23540999295764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77759789140604,
+          31.23553395497539
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 2,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d4\u05d2\u05e9\u05e8",
+        "lon": 34.77759789140604,
+        "lat": 31.23553395497539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.771893257763494,
+          31.24058103107724
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d3\u05d1 \u05e8\u05d5\u05e0\u05d0\u05dc 9",
+        "lon": 34.771893257763494,
+        "lat": 31.24058103107724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78001937985227,
+          31.240493901365475
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9.\u05dc \u05e4\u05e8\u05e5",
+        "lon": 34.78001937985227,
+        "lat": 31.240493901365475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7740319614474,
+          31.241263322737954
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d0\u05d1\u05d9\u05d2\u05d3\u05d5\u05e8 \u05d4\u05de\u05d0\u05d9\u05e8\u05d9",
+        "lon": 34.7740319614474,
+        "lat": 31.241263322737954
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77321305181946,
+          31.235537659101794
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e4\u05d9\u05d9\u05e8\u05d1\u05e8\u05d2 29",
+        "lon": 34.77321305181946,
+        "lat": 31.235537659101794
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77532104674827,
+          31.238420400978423
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "1\n\u05d0\u05d9\u05e7\u05e1 \u05e2\u05d9\u05d2\u05d5\u05dc",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e9\u05d5\u05e4\u05de\u05df \u05d2\u05e8\u05e9\u05d5\u05dd",
+        "lon": 34.77532104674827,
+        "lat": 31.238420400978423
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76826196506576,
+          31.23652571825466
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 2,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e9\u05d3\u05e8' \u05d0\u05d9\u05de\u05d1\u05e8 2",
+        "lon": 34.76826196506576,
+        "lat": 31.23652571825466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77504935677348,
+          31.235187993329788
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e4\u05d9\u05d9\u05e8\u05d1\u05e8\u05d2 21",
+        "lon": 34.77504935677348,
+        "lat": 31.235187993329788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77499540900828,
+          31.23737177691636
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 2,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e4\u05d9\u05db\u05de\u05df - \u05e9\u05d5\u05e4\u05de\u05df",
+        "lon": 34.77499540900828,
+        "lat": 31.23737177691636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77599248984311,
+          31.24212624032843
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2'\u05d5 \u05d0\u05dc\u05d5\u05df - \u05d0\u05e9\u05d1\u05dc",
+        "lon": 34.77599248984311,
+        "lat": 31.24212624032843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.780698952247285,
+          31.23783020152063
+        ]
+      },
+      "properties": {
+        "combined1": 2,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e7\u05d9\u05e4\u05e0\u05d9\u05e1",
+        "lon": 34.780698952247285,
+        "lat": 31.23783020152063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77152634686325,
+          31.23094885551714
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 2,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05e0\u05e7\u05d5\u05e8 \u05e4\u05d9\u05e0\u05ea \u05d1\u05d6",
+        "lon": 34.77152634686325,
+        "lat": 31.23094885551714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76721975998699,
+          31.227693684544274
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 4,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2\n\u05e1\u05e7\u05d9\u05d9\u05d8 \u05d4\u05d7\u05dc\u05e7\u05d4 \n\u05de\u05e9\u05d8\u05d7 \u05d3\u05e8\u05d9\u05db\u05d4",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d7\u05e1\u05d9\u05d3\u05d4 35",
+        "lon": 34.76721975998699,
+        "lat": 31.227693684544274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.780518389360694,
+          31.254159585504993
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e7\u05e4\u05e8\u05d9\u05e1\u05d9\u05df",
+        "lon": 34.780518389360694,
+        "lat": 31.254159585504993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76344720681464,
+          31.236475809454145
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d0\u05d5\u05e8\u05d5\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc 60",
+        "lon": 34.76344720681464,
+        "lat": 31.236475809454145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.763893782875805,
+          31.237177067688208
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "5\n\u05db\u05e4\u05d9\u05e4\u05d5\u05ea\n2*\u05de\u05ea\u05d7\n\u05de\u05e7\u05d1\u05d9\u05dc\u05d9\u05ea \n\u05d8\u05d1\u05e2\u05d5\u05ea",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d5\u05e8\u05d5\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc 6",
+        "lon": 34.763893782875805,
+        "lat": 31.237177067688208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.764097965035155,
+          31.237763602028807
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 6,
+        "omega": 0,
+        "roserose": 1,
+        "other": "1-\u05e0\u05d3\u05e0\u05d3\u05ea \u05e1\u05d9\u05e8\u05d4",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05de\u05d9 \u05de\u05e8\u05d5\u05dd",
+        "lon": 34.764097965035155,
+        "lat": 31.237763602028807
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.770523201594614,
+          31.239420771223138
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "1\n\u05e1\u05d1\u05d9\u05d1\u05d5\u05df\n\n*\u05d9\u05e9 \u05d2\u05dd \u05d7\u05dc\u05e7 \u05e2\u05dd \u05d7\u05d5\u05dc!",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d0\u05d1\u05d9\u05e1\u05e8\u05d5\u05e8\n\u05d3\u05d1 \u05e8\u05d5\u05e0\u05d0\u05dc 39",
+        "lon": 34.770523201594614,
+        "lat": 31.239420771223138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80519048963893,
+          31.285925603951256
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "3\n3- \u05e4\u05d8\u05e8\u05d9\u05d5\u05ea",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05d3\u05e2\u05d5\u05df \u05d4\u05d0\u05d5\u05d6\u05e0\u05e8",
+        "lon": 34.80519048963893,
+        "lat": 31.285925603951256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.82255922629026,
+          31.27597249132954
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2\n\u05d2\u05dc \u05e8\u05e5\n\u05d4\u05d2\u05d4 \u05db\u05d7",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d1\u05e8\u05d4\u05dd \u05d0\u05de\u05d9\u05e8 4",
+        "lon": 34.82255922629026,
+        "lat": 31.27597249132954
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76682163858403,
+          31.2370448599484
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05e8\u05d5\u05e1\u05de\u05df - \u05e8\u05d5\u05d6\u05e0\u05d1\u05dc\u05d5\u05dd",
+        "lon": 34.76682163858403,
+        "lat": 31.2370448599484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.778033974462915,
+          31.23909069225177
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 1,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d7\u05d8\u05d9\u05d1\u05d4 \u05e9\u05de\u05d5\u05e0\u05d4",
+        "lon": 34.778033974462915,
+        "lat": 31.23909069225177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78074034890611,
+          31.23732893961034
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05de\u05d1\u05e6\u05e2 \u05d0\u05e1\u05e3",
+        "lon": 34.78074034890611,
+        "lat": 31.23732893961034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.765541013305615,
+          31.23503964071393
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d8\u05dc \u05d7\u05e8\u05de\u05d5\u05df 6",
+        "lon": 34.765541013305615,
+        "lat": 31.23503964071393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76478712872474,
+          31.2396159362254
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d1\u05e8 \u05e0\u05d9\u05e1\u05df",
+        "lon": 34.76478712872474,
+        "lat": 31.2396159362254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76728470932688,
+          31.239963068325743
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2\n* \u05db\u05d3\u05d5\u05e8 \u05e4\u05dc\u05e1\u05d8\u05d9\u05e7 \u05e2\u05dd \u05e6\u05d3 \u05e4\u05ea\u05d5\u05d7 cozy cocoon\n* \u05de\u05ea\u05e7\u05df \u05d8\u05d9\u05e4\u05d5\u05e1 \u05d0\u05ea\u05d2\u05e8\u05d9",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d8\u05d9\u05d5\u05de\u05e7\u05d9\u05df",
+        "lon": 34.76728470932688,
+        "lat": 31.239963068325743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7946455869247,
+          31.230847470352877
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1 \u05e7\u05d9\u05e8 \u05d8\u05d9\u05e4\u05d5\u05e1 + \u05e6\u05d9\u05e0\u05d5\u05e8 \u05d8\u05d9\u05e4\u05d5\u05e1+ 3 \u05e4\u05d9\u05d8\u05e8\u05d9\u05d5\u05ea+4 \u05d7\u05d9\u05d5\u05ea",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d1\u05d9\u05d1\u05d9\u05ea -\u05e6\u05d1\u05e8",
+        "lon": 34.7946455869247,
+        "lat": 31.230847470352877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.779474974689585,
+          31.229470199227677
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d7\u05e6\u05d1 \u05e6\u05d1\u05e2\u05d5\u05e0\u05d9 \u05e1\u05ea\u05d5\u05d5\u05e0\u05d9\u05ea",
+        "lon": 34.779474974689585,
+        "lat": 31.229470199227677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78458752785385,
+          31.231821792341872
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 2,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05d3\u05e9\u05d0 \u05e1\u05d9\u05e0\u05d8\u05d8\u05d9",
+        "Name": "\u05d0\u05d5\u05e8\u05df 10",
+        "lon": 34.78458752785385,
+        "lat": 31.231821792341872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78200046816994,
+          31.232185178110324
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05d3\u05e9\u05d0 \u05e1\u05d9\u05e0\u05d8\u05d8\u05d9",
+        "Name": "\u05d0\u05d5\u05db\u05de\u05e0\u05d9\u05ea 57",
+        "lon": 34.78200046816994,
+        "lat": 31.232185178110324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78137980025956,
+          31.23260642349727
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05db\u05dc\u05e0\u05d9\u05ea",
+        "lon": 34.78137980025956,
+        "lat": 31.23260642349727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78913409027273,
+          31.232666714133853
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d7\u05e8\u05e6\u05d9\u05ea",
+        "lon": 34.78913409027273,
+        "lat": 31.232666714133853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77765039496916,
+          31.231664313046807
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05db\u05dc\u05e0\u05d9\u05ea55",
+        "lon": 34.77765039496916,
+        "lat": 31.231664313046807
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.784839508836974,
+          31.231065333047123
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d5\u05e8\u05df -\u05db\u05e8\u05db\u05d5\u05dd",
+        "lon": 34.784839508836974,
+        "lat": 31.231065333047123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76460230631617,
+          31.234944682909774
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05d0\u05e8\u05e5 \u05d7\u05de\u05d3\u05d4 44",
+        "lon": 34.76460230631617,
+        "lat": 31.234944682909774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76449833039016,
+          31.235988068801962
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d5\u05e8\u05d5\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+        "lon": 34.76449833039016,
+        "lat": 31.235988068801962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.791505124970094,
+          31.231151861616112
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d9\u05e1\u05de\u05d9\u05df",
+        "lon": 34.791505124970094,
+        "lat": 31.231151861616112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8103559558458,
+          31.27461040300122
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2\n\u05de\u05ea\u05e7\u05df \u05d4\u05dc\u05d9\u05e7\u05d5\u05e4\u05d8\u05e8\n\u05e1\u05d1\u05d9\u05d1\u05d5\u05df",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d4\u05e8 \u05d1\u05d5\u05e7\u05e8 \u05e2\u05dc\u05d9\u05d5\u05df",
+        "lon": 34.8103559558458,
+        "lat": 31.27461040300122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81431978469677,
+          31.274523153795542
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d4\u05e8 \u05db\u05e0\u05e2\u05df",
+        "lon": 34.81431978469677,
+        "lat": 31.274523153795542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.801861556358,
+          31.27353970696052
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 4,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05d5\u05e1\u05e3 \u05d1\u05df \u05d3\u05d5\u05d3 23",
+        "lon": 34.801861556358,
+        "lat": 31.27353970696052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.802205661993305,
+          31.273306928432568
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05e9\u05e2\u05d5\u05dc \u05d8\u05e1",
+        "lon": 34.802205661993305,
+        "lat": 31.273306928432568
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80058144495956,
+          31.275048874389174
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e0\u05d7\u05de\u05df \u05d0\u05d1\u05d9\u05d2\u05d3",
+        "lon": 34.80058144495956,
+        "lat": 31.275048874389174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81649098787143,
+          31.275239918509776
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d9\u05e2\u05e7\u05d1 \u05d7\u05d6\u05df",
+        "lon": 34.81649098787143,
+        "lat": 31.275239918509776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81980602100457,
+          31.27698983571708
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05d5\u05e1\u05e3 \u05ea\u05e7\u05d5\u05e2",
+        "lon": 34.81980602100457,
+        "lat": 31.27698983571708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.82425586889535,
+          31.275851753171292
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d1\u05e8\u05d4\u05dd \u05d0\u05de\u05d9\u05e8 -\u05e4\u05dc\u05d3\u05d1\u05e8\u05d2",
+        "lon": 34.82425586889535,
+        "lat": 31.275851753171292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81037288402039,
+          31.274882491153146
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 6,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2 \n\u05de\u05ea\u05e7\u05df \u05e4\u05e8\u05de\u05d9\u05d3\u05d4\n\u05de\u05ea\u05e7\u05df \u05d8\u05d9\u05e4\u05d5\u05e1 \u05de\u05ea\u05db\u05ea",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d4\u05e8 \u05d1\u05d5\u05e7\u05e8 \u05ea\u05d7\u05ea\u05d5\u05df",
+        "lon": 34.81037288402039,
+        "lat": 31.274882491153146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.813549999932036,
+          31.27250917533885
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2\n\u05de\u05ea\u05e7\u05df \u05d4\u05dc\u05d9\u05e7\u05d5\u05e4\u05d8\u05e8\n\u05de\u05ea\u05e7\u05df \u05d4\u05d2\u05d4 \u05db\u05d5\u05d7",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05dc\u05d9\u05d4\u05d5 \u05d7\u05db\u05d9\u05dd",
+        "lon": 34.813549999932036,
+        "lat": 31.27250917533885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.775573090851886,
+          31.248041633335664
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d1\u05d9\u05d2\u05d3\u05d5\u05e8 \u05d4\u05db\u05d8",
+        "lon": 34.775573090851886,
+        "lat": 31.248041633335664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.776869085350945,
+          31.244910322129012
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d9\u05e8\u05d9\u05d7\u05d5 31",
+        "lon": 34.776869085350945,
+        "lat": 31.244910322129012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77703951895373,
+          31.24360293394535
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05e8\u05d9\u05d7\u05d5 \u05d7\u05d3\u05e9",
+        "lon": 34.77703951895373,
+        "lat": 31.24360293394535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.775993869313524,
+          31.244627240326327
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e9\u05d3 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd 40 \u05d1\u05d9\u05ea \u05db\u05e0\u05e1\u05ea",
+        "lon": 34.775993869313524,
+        "lat": 31.244627240326327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76885173336106,
+          31.244331629467805
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "\u05d9\u05e9 \u05d7\u05dc\u05e7 \u05e2\u05dd \u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05de\u05e9\u05d9\u05ea",
+        "lon": 34.76885173336106,
+        "lat": 31.244331629467805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77031703702691,
+          31.247975885894828
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e2\u05d9\u05df \u05d2\u05d3\u05d9",
+        "lon": 34.77031703702691,
+        "lat": 31.247975885894828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.769632797133156,
+          31.24537965570775
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1 -\u05d0\u05d9\u05e7\u05e1 \u05e2\u05d9\u05d2\u05d5\u05dc",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e9\u05d9\u05d1\u05d8\u05d4",
+        "lon": 34.769632797133156,
+        "lat": 31.24537965570775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77089440740496,
+          31.24590271622626
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2 -\u05d0\u05d9\u05e7\u05e1 \u05e2\u05d9\u05d2\u05d5\u05dc \u05d5\u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05d4",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e9\u05e2\u05e8 \u05d4\u05d2\u05d9\u05d0 \u05d1\"\u05d4\u05e1 \u05d9\u05d5\u05d1\u05dc\u05d9\u05dd",
+        "lon": 34.77089440740496,
+        "lat": 31.24590271622626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77676868990741,
+          31.247054689025806
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "\u05e7\u05e8\u05d5\u05e1\u05dc\u05d4 \u05e8\u05d9\u05d1\u05d5\n8 \u05e9\u05d5\u05e0\u05d5\u05ea - \u05d0\u05e7\u05e1\u05d8\u05e8\u05d9\u05dd \u05d5\u05e7\u05d9\u05e8 \u05d8\u05d9\u05e4\u05d5\u05e1",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05df \u05e9\u05dc\u05d5\u05e9\u05d4 \u05d7\u05d3\u05e9",
+        "lon": 34.77676868990741,
+        "lat": 31.247054689025806
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.777096639076625,
+          31.247009246560353
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "\u05e7\u05df \u05dc\u05e6\u05d9\u05e4\u05d5\u05e8",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05df \u05e9\u05dc\u05d5\u05e9\u05d4",
+        "lon": 34.777096639076625,
+        "lat": 31.247009246560353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76382508221649,
+          31.229861229208087
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05e9\u05d5\u05e9",
+        "lon": 34.76382508221649,
+        "lat": 31.229861229208087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76397066428777,
+          31.232002237165336
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "1- \u05e0\u05d3\u05e0\u05d3\u05ea \u05e1\u05d5\u05e1 \u05de\u05d7\u05d1\u05dc",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e6\u05d5\u05e7\u05d9\u05ea",
+        "lon": 34.76397066428777,
+        "lat": 31.232002237165336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76152809357461,
+          31.23075659389547
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d3\u05d9\u05d4",
+        "lon": 34.76152809357461,
+        "lat": 31.23075659389547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77337687299556,
+          31.219865522299028
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05e9\u05d4 \u05d7\u05d5\u05d1\u05d1 \u05d7\u05d3\u05e9",
+        "lon": 34.77337687299556,
+        "lat": 31.219865522299028
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.776350997386444,
+          31.22288696737872
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05e9\u05d4 \u05d7\u05d5\u05d1\u05d1 55 \u05de\u05e7\u05dc\u05d8",
+        "lon": 34.776350997386444,
+        "lat": 31.22288696737872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77801051793488,
+          31.22396519125019
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05e6\u05e0\u05d7\u05e0\u05d9\u05dd",
+        "lon": 34.77801051793488,
+        "lat": 31.22396519125019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77414552138609,
+          31.22220196778271
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 4,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2- \u05e4\u05d8\u05e8\u05d9\u05d4 \u05d5\u05e7\u05d9\u05e8 \u05d8\u05d9\u05e4\u05d5\u05e1",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05df \u05e4\u05e8\u05d8\u05d5\u05e9- \u05d7\u05d9\u05d9\u05dd \u05d1\u05df \u05d7\u05d9\u05d9\u05dd",
+        "lon": 34.77414552138609,
+        "lat": 31.22220196778271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77683659122225,
+          31.223198870275244
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d6\u05d9\u05e0\u05d3\u05e8 \u05de\u05d5\u05dc \u05d7\u05d5\u05d1\u05d1 64",
+        "lon": 34.77683659122225,
+        "lat": 31.223198870275244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76118807951614,
+          31.24554508682814
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 4,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05de\u05e9\u05d4 \u05d5\u05dc\u05e0\u05e1\u05e7\u05d9",
+        "lon": 34.76118807951614,
+        "lat": 31.24554508682814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77189052404137,
+          31.271145177690784
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e8\u05d5\u05d3\u05e0\u05e1\u05e7\u05d9 \u05e8\u05d5\u05d1\u05d9\u05e0\u05d0",
+        "lon": 34.77189052404137,
+        "lat": 31.271145177690784
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.769960525137094,
+          31.269897204184876
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 4,
+        "omega": 0,
+        "roserose": 1,
+        "other": "1- \u05de\u05ea\u05e7\u05df \u05d8\u05d9\u05e4\u05d5\u05e1 \u05e4\u05e8\u05de\u05d9\u05d3\u05ea \u05d7\u05d1\u05dc\u05d9\u05dd",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e8\u05d5\u05d1\u05d9\u05e0\u05d0 \u05de\u05e8\u05db\u05d6 \u05de\u05e1\u05d7\u05e8\u05d9",
+        "lon": 34.769960525137094,
+        "lat": 31.269897204184876
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76640143099771,
+          31.266744773592706
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d0\u05de\u05e0\u05d5\u05df \u05e7\"\u05d7",
+        "lon": 34.76640143099771,
+        "lat": 31.266744773592706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76162528990811,
+          31.26649222342964
+        ]
+      },
+      "properties": {
+        "combined1": 2,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d4\u05d0\u05e8\u05d5\u05e0\u05e1\u05d5\u05df",
+        "lon": 34.76162528990811,
+        "lat": 31.26649222342964
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.759000960486325,
+          31.25878128432906
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05e8\u05d5\u05e4\u05e1\u05d5\u05e8 \u05d6\u05d0\u05d1 \u05d5\u05d9\u05e0\u05d9\u05e7",
+        "lon": 34.759000960486325,
+        "lat": 31.25878128432906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.762449244918116,
+          31.268758831763243
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2 - \u05e7\u05df \u05dc\u05e6\u05d9\u05e4\u05d5\u05e8",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d7\u05d9\u05e0\u05d5\u05e2\u05dd \u05d7\u05d5\u05d5\u05d4 \u05e8\u05d1\u05e7\u05d4 \u05e7\u05d8\u05df \u05d7\u05d3\u05e9",
+        "lon": 34.762449244918116,
+        "lat": 31.268758831763243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76268964827664,
+          31.26873877835775
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d7\u05d9\u05e0\u05d5\u05e2\u05dd \u05d7\u05d5\u05d5\u05d4 \u05e8\u05d1\u05e7\u05d4",
+        "lon": 34.76268964827664,
+        "lat": 31.26873877835775
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76281617027364,
+          31.269011845934607
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1 - \u05e1\u05e7\u05d9\u05d9\u05d8",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d7\u05d9\u05e0\u05d5\u05e2\u05dd \u05d7\u05d5\u05d5\u05d4 \u05e8\u05d1\u05e7\u05d4 \u05d2\u05d3\u05d5\u05dc",
+        "lon": 34.76281617027364,
+        "lat": 31.269011845934607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75814117627401,
+          31.26670340141553
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "7 - \u05de\u05ea\u05e7\u05df \u05d7\u05e6\u05d5\u05d1\u05d4 \u05e2\u05dd \u05de\u05e9\u05d8\u05d7 \u05e9\u05d8\u05d5\u05d7\n\u05de\u05ea\u05e7\u05df \u05de\u05e1\u05d9\u05dc\u05d4\n\u05ea\u05dc\u05d9\u05d4\n\u05d1\u05d9\u05ea \u05d1\u05d5\u05d1\u05d5\u05ea\n\u05e4\u05d8\u05e8",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e9\u05d0\u05d5\u05dc \u05d5\u05d0\u05dc\u05d9\u05d4\u05d5 \u05dc\u05d5\u05d6\u05d5\u05df \u05d7\u05d3\u05e9",
+        "lon": 34.75814117627401,
+        "lat": 31.26670340141553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77684679965687,
+          31.26818358327443
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d0\u05d1\u05d5\u05d7\u05e6\u05d9\u05e8\u05d4 -\u05de\u05e8\u05d3\u05db\u05d9 \u05de\u05e7\u05dc\u05e3",
+        "lon": 34.77684679965687,
+        "lat": 31.26818358327443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78420163725948,
+          31.265970402691785
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05de\u05d1\u05e6\u05e2 \u05d1\u05e8\u05d5\u05e9",
+        "lon": 34.78420163725948,
+        "lat": 31.265970402691785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77712690458084,
+          31.269820893754684
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d0\u05e7\u05e6\u05d9\u05df 28",
+        "lon": 34.77712690458084,
+        "lat": 31.269820893754684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77731421583563,
+          31.270177072847712
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d0\u05e7\u05e6\u05d9\u05df 24",
+        "lon": 34.77731421583563,
+        "lat": 31.270177072847712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.783639693409114,
+          31.264986733778432
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1 - \u05de\u05ea\u05e7\u05df \u05e1\u05dc",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05de\u05d1\u05e6\u05e2 \u05d0\u05e8\u05d6 \u05de\u05e2\u05d1\u05e8 \u05e6\u05d9\u05d1\u05d5\u05e8\u05d9",
+        "lon": 34.783639693409114,
+        "lat": 31.264986733778432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.777884663615374,
+          31.25934817663873
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d8\u05d9\u05d9\u05e1\u05d9\u05dd",
+        "lon": 34.777884663615374,
+        "lat": 31.25934817663873
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.776151374698884,
+          31.26038259660668
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05de\u05d1\u05e6\u05e2 \u05e2\u05d5\u05d1\u05d3\u05d4 48",
+        "lon": 34.776151374698884,
+        "lat": 31.26038259660668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.781103491812715,
+          31.264874957700123
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d3\u05d5\u05e8\u05d9 \u05dc\u05d9\u05d3 \u05d2\u05df \u05e6\u05d9\u05d5\u05df",
+        "lon": 34.781103491812715,
+        "lat": 31.264874957700123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.778808953079924,
+          31.26225341001517
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1 - \u05d2\u05dc\u05d2\u05dc \u05e8\u05e5",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d2\u05d3\u05e2\u05d5\u05df \u05d4\u05e9\u05d5\u05e4\u05d8",
+        "lon": 34.778808953079924,
+        "lat": 31.26225341001517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.775878408604534,
+          31.26349829452663
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d1\u05df \u05e0\u05d5\u05df",
+        "lon": 34.775878408604534,
+        "lat": 31.26349829452663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78110701359553,
+          31.259243494196838
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "\u05e0\u05d3\u05e0\u05d3\u05d4 \u05d0\u05d7\u05ea \u05d4\u05d9\u05d0 \u05e7\u05df \u05dc\u05e6\u05d9\u05e4\u05d5\u05e8",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05df \u05d7\u05d1\u05d9\u05d1",
+        "lon": 34.78110701359553,
+        "lat": 31.259243494196838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77125708247589,
+          31.26545953376988
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1 - \u05d3\u05de\u05d5\u05ea \u05de\u05db\u05d5\u05e0\u05d9\u05ea",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e9\u05d8\u05d9\u05d9\u05df 5",
+        "lon": 34.77125708247589,
+        "lat": 31.26545953376988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77869645147788,
+          31.26695091475109
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d8\u05d5\u05dc\u05d3\u05e0\u05d5 3-5",
+        "lon": 34.77869645147788,
+        "lat": 31.26695091475109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.777915837786665,
+          31.2673671851323
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d8\u05d5\u05dc\u05d3\u05e0\u05d5 7",
+        "lon": 34.777915837786665,
+        "lat": 31.2673671851323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.787147421463864,
+          31.26299269899284
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1 - \u05e7\u05d9\u05e8 \u05d8\u05d9\u05e4\u05d5\u05e1",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05df \u05e0\u05d3\u05d1",
+        "lon": 34.787147421463864,
+        "lat": 31.26299269899284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76748404168395,
+          31.25811702469366
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05de\u05e9\u05d4 \u05e1\u05e0\u05d4 -\u05de\u05e9\u05d4 \u05e9\u05e8\u05ea",
+        "lon": 34.76748404168395,
+        "lat": 31.25811702469366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76408956108822,
+          31.261308363978628
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d2\u05d5\u05dc\u05d3\u05d4 \u05de\u05d0\u05d9\u05e8",
+        "lon": 34.76408956108822,
+        "lat": 31.261308363978628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76416725130808,
+          31.256091013662726
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d3\u05d1 \u05d9\u05d5\u05e1\u05e3",
+        "lon": 34.76416725130808,
+        "lat": 31.256091013662726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.768756394413856,
+          31.254329764674015
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05df \u05e8\u05d0\u05d5\u05dc",
+        "lon": 34.768756394413856,
+        "lat": 31.254329764674015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76812634513231,
+          31.26201429549463
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 2,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d9\u05d0'  4",
+        "lon": 34.76812634513231,
+        "lat": 31.26201429549463
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76573702014625,
+          31.26068419004529
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1 - \u05de\u05ea\u05e7\u05df \u05e4\u05e8\u05de\u05d9\u05d3\u05d4 \u05db\u05d1\u05dc\u05d9\u05dd",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d9\u05d0 3",
+        "lon": 34.76573702014625,
+        "lat": 31.26068419004529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76529925104761,
+          31.258443049207834
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 2,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d9\u05d0 1",
+        "lon": 34.76529925104761,
+        "lat": 31.258443049207834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.769448698829,
+          31.253201295847887
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d4\u05d7\u05d9\u05d3\"\u05d0 35",
+        "lon": 34.769448698829,
+        "lat": 31.253201295847887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76783880880159,
+          31.253551395960788
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d4\u05d7\u05d9\u05d3\"\u05d0 59",
+        "lon": 34.76783880880159,
+        "lat": 31.253551395960788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.768437864562785,
+          31.26457599530604
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05e8\u05ea\u05d5\u05e8 \u05e8\u05d5\u05e4\u05d9\u05df \u05d4\u05e8\u05e6\u05dc \u05e7\u05dc\u05e2\u05d9",
+        "lon": 34.768437864562785,
+        "lat": 31.26457599530604
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.773324324264195,
+          31.26004084062834
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 2,
+        "SpecialCom": 0,
+        "Swing": 12,
+        "slid": 0,
+        "carrousel": 2,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "4- \u05de\u05ea\u05e7\u05df \u05e8\u05d1 \u05e2\u05e8\u05e1\u05dc\u05d9\u05dd\n\u05d5\u05de\u05ea\u05e7\u05df \u05de\u05d9\u05d5\u05d7\u05d3 \u05e4\u05e8\u05de\u05d9\u05d3\u05d4 \u05db\u05d1\u05dc\u05d9\u05dd",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d0\u05d5\u05e1\u05d8\u05e8\u05dc\u05d9",
+        "lon": 34.773324324264195,
+        "lat": 31.26004084062834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77334924645657,
+          31.259446738333715
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 2,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "9",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d0\u05d5\u05e1\u05d8\u05e8\u05dc\u05d9 \u05de\u05ea\u05d7\u05dd \u05e7\u05d8\u05df",
+        "lon": 34.77334924645657,
+        "lat": 31.259446738333715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76514149322149,
+          31.254431752375087
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e9\u05d9\u05d8\u05e8\u05d9\u05ea",
+        "lon": 34.76514149322149,
+        "lat": 31.254431752375087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.770143826973076,
+          31.261770526920774
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05de\u05d9\u05db\u05d0\u05dc \u05d7\u05d6\u05e0\u05d9",
+        "lon": 34.770143826973076,
+        "lat": 31.261770526920774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77171933768783,
+          31.25808815694206
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05dc\u05e4\u05e1\u05d9 \u05e7\u05d5\u05e7",
+        "lon": 34.77171933768783,
+        "lat": 31.25808815694206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80603847454092,
+          31.23434810362944
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "\u05de\u05e9\u05d5\u05dc\u05d1 1 -  \u05de\u05ea\u05e7\u05df \u05d3\u05de\u05d5\u05d9 \u05d3\u05d7\u05e4\u05d5\u05e8 \n\u05e0\u05d3\u05e0\u05d3\u05d4 \u05e7\u05df \u05dc\u05e6\u05d9\u05e4\u05d5\u05e8",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05e0\u05d7\u05dc \u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2  - \u05e7\u05d8\u05df",
+        "lon": 34.80603847454092,
+        "lat": 31.23434810362944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79925427891059,
+          31.271052541136438
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05e6\u05d7\u05e7 \u05e9\u05d9\u05e4\u05e8",
+        "lon": 34.79925427891059,
+        "lat": 31.271052541136438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.801221867779255,
+          31.265689284410815
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d2\u05df \u05e1\u05dc\u05e7\u05d5\u05dd",
+        "lon": 34.801221867779255,
+        "lat": 31.265689284410815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.798688826799086,
+          31.266666346313137
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "3 - \u05de\u05e1\u05dc\u05d5\u05dc \u05e4\u05d8\u05e8\u05d9\u05d5\u05ea 3*3\n\u05d5\u05d0\u05d7\u05d3 \u05de\u05d9\u05d5\u05d7\u05d3",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05df \u05e1\u05d9\u05d0\u05d8\u05dc",
+        "lon": 34.798688826799086,
+        "lat": 31.266666346313137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.791989005530354,
+          31.268592232554937
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "1 - \u05e1\u05d1\u05d9\u05d1\u05d5\u05df \u05d9\u05e9\u05d9\u05d1\u05d4 \u05de\u05e9\u05d8\u05d7 \u05e2\u05e5",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d9\u05d9\u05e1\u05d9\u05dd 12",
+        "lon": 34.791989005530354,
+        "lat": 31.268592232554937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.791040351018395,
+          31.267617966133088
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d0\u05d9\u05d9\u05e1\u05d9\u05dd 6",
+        "lon": 34.791040351018395,
+        "lat": 31.267617966133088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.792235420307854,
+          31.26165810467091
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d1\u05e8 \u05d2\u05d9\u05d5\u05e8\u05d0 23",
+        "lon": 34.792235420307854,
+        "lat": 31.26165810467091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79758950945383,
+          31.263457028709258
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d9\u05e2\u05e7\u05d1 \u05d0\u05d1\u05d9\u05e0\u05d5 \u05de\u05e2\u05d5\u05e0\u05d5\u05ea \u05e1\u05d8\u05d5\u05d3\u05e0\u05d8\u05d9\u05dd",
+        "lon": 34.79758950945383,
+        "lat": 31.263457028709258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79018298176002,
+          31.270542961536805
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "\u05e0\u05ea\u05d3\u05e0\u05d3\u05ea \u05e1\u05d9\u05e8\u05d4",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d2\u05df \u05dc\u05d9\u05de\u05d5\u05df",
+        "lon": 34.79018298176002,
+        "lat": 31.270542961536805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79567515199475,
+          31.273785702893296
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "1 - \u05e7\u05d5\u05e8\u05ea \u05e9\u05d9\u05d5\u05d5\u05d9 \u05de\u05e9\u05e7\u05dc",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d4\u05d3\u05e1\u05d4",
+        "lon": 34.79567515199475,
+        "lat": 31.273785702893296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79701094246703,
+          31.27130813809894
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05df \u05d9\u05d5\u05e0\u05ea\u05df",
+        "lon": 34.79701094246703,
+        "lat": 31.27130813809894
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79762900685913,
+          31.265728298654548
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d4\u05d1\u05e9\u05d5\u05e8",
+        "lon": 34.79762900685913,
+        "lat": 31.265728298654548
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78741744372052,
+          31.267245152806638
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 9,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 8,
+        "omega": 0,
+        "roserose": 2,
+        "other": "5\n\u05d5\u05d0\u05d7\u05d3 \u05de\u05d9\u05d5\u05d7\u05d3",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d0\u05d9\u05dc\u05df \u05e8\u05de\u05d5\u05df",
+        "lon": 34.78741744372052,
+        "lat": 31.267245152806638
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.786635732425474,
+          31.269326107556207
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 1,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "\u05de\u05e9\u05d5\u05dc\u05d1 \u05e1\u05e4\u05d5\u05e8\u05d8 \u05d8\u05d9\u05e4\u05d5\u05e1",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05ea\u05dc\u05de\u05d5\u05d3 54",
+        "lon": 34.786635732425474,
+        "lat": 31.269326107556207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.791734919014765,
+          31.266153574268124
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 4,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d2\u05df \u05d4\u05e4\u05d9\u05dc",
+        "lon": 34.791734919014765,
+        "lat": 31.266153574268124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.793701730869074,
+          31.266875008111406
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e0\u05d7\u05dc\u05d9\u05d0\u05dc\u05d9",
+        "lon": 34.793701730869074,
+        "lat": 31.266875008111406
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79417943654991,
+          31.261885725683175
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 2,
+        "other": "1 - \u05e7\u05d5\u05d6\u05d9 \u05e7\u05d5\u05e7\u05d5\u05df \u05de\u05e4\u05dc\u05e1\u05d8\u05d9\u05e7",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05db\u05d9\u05db\u05e8 \u05d4\u05d0\u05d1\u05d5\u05ea",
+        "lon": 34.79417943654991,
+        "lat": 31.261885725683175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.806584190352794,
+          31.249748040905207
+        ]
+      },
+      "properties": {
+        "combined1": 3,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d2\u05df \u05de\u05e2\u05e4\u05d9\u05dc\u05d9\u05dd",
+        "lon": 34.806584190352794,
+        "lat": 31.249748040905207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80599468616419,
+          31.2499968630532
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05db\"\u05d2 13",
+        "lon": 34.80599468616419,
+        "lat": 31.2499968630532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.803756356630004,
+          31.2574308506161
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d5\u05d9\u05e0\u05d2\u05d9\u05d9\u05d8 55",
+        "lon": 34.803756356630004,
+        "lat": 31.2574308506161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81078801067818,
+          31.259650642820652
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 20,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 0,
+        "omega": 1,
+        "roserose": 1,
+        "other": "2",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05de\u05e8\u05de\u05dc\u05d3\u05d4",
+        "lon": 34.81078801067818,
+        "lat": 31.259650642820652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.791091332391105,
+          31.254259432520787
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05de\u05e8\u05db\u05d6 \u05d7\u05df",
+        "lon": 34.791091332391105,
+        "lat": 31.254259432520787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7914245672507,
+          31.249269085785865
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05db\u05d9\u05db\u05e8 \u05e7\u05e4\u05dc\u05df",
+        "lon": 34.7914245672507,
+        "lat": 31.249269085785865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79026984766166,
+          31.25834632499755
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05e6\u05d3\u05d4 59",
+        "lon": 34.79026984766166,
+        "lat": 31.25834632499755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78903805154671,
+          31.25728531518833
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e1\u05e2\u05d3\u05d9\u05d4 \u05d2\u05d0\u05d5\u05df",
+        "lon": 34.78903805154671,
+        "lat": 31.25728531518833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79741155651077,
+          31.24869359538642
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05e8\u05d0\u05e9\u05d5\u05e0\u05d9\u05dd \u05e0\u05e2\u05de\"\u05ea",
+        "lon": 34.79741155651077,
+        "lat": 31.24869359538642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.784733744672785,
+          31.247800833625444
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05d5\u05e8\u05d9\u05d4 17",
+        "lon": 34.784733744672785,
+        "lat": 31.247800833625444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79636516988654,
+          31.24733511556718
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05d2\u05df \u05e8\u05d0\u05e9\u05d5\u05e0\u05d9\u05dd \u05de\u05d5\u05dc \u05d1\u05d9\u05ea \u05de\u05e9\u05e4\u05d8",
+        "lon": 34.79636516988654,
+        "lat": 31.24733511556718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7910408779984,
+          31.248627994550564
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2 - \u05db\u05e4\u05d9\u05e4\u05d5\u05ea \u05d1\u05d8\u05df \u05d5\u05d0\u05d5\u05e4\u05e0\u05d9\u05d9\u05dd",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e7\u05e4\u05dc\u05df \u05de\u05d3\"\u05d0",
+        "lon": 34.7910408779984,
+        "lat": 31.248627994550564
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78860229151257,
+          31.246395300237303
+        ]
+      },
+      "properties": {
+        "combined1": 2,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e1\u05d5\u05e7\u05d5\u05dc\u05d5\u05d1",
+        "lon": 34.78860229151257,
+        "lat": 31.246395300237303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78734850249657,
+          31.249043493187358
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05e0\u05d9\u05e4\u05d4",
+        "lon": 34.78734850249657,
+        "lat": 31.249043493187358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76648641442697,
+          31.22610749861689
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e0\u05e9\u05e8",
+        "lon": 34.76648641442697,
+        "lat": 31.22610749861689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.765311004669094,
+          31.22807934629923
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05d9\u05e0\u05e9\u05d5\u05e3 \u05e4\u05d9\u05e0\u05ea \u05d7\u05d5\u05d7\u05d9\u05ea \u05e2\u05dc\u05d9\u05d5\u05df",
+        "lon": 34.765311004669094,
+        "lat": 31.22807934629923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.763113471529074,
+          31.2276900173975
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05d7\u05d5\u05d7\u05d9\u05ea",
+        "lon": 34.763113471529074,
+        "lat": 31.2276900173975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76514199322932,
+          31.229592621391355
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05d9\u05e0\u05e9\u05d5\u05e3",
+        "lon": 34.76514199322932,
+        "lat": 31.229592621391355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79771450174927,
+          31.260953521588643
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05de\u05e8\u05e4\"\u05d3",
+        "lon": 34.79771450174927,
+        "lat": 31.260953521588643
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.785657721605325,
+          31.26855469196561
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05db\u05d9\u05e4\u05d4 \u05e1\u05e0\u05d4\u05d3\u05e8\u05d9\u05df",
+        "lon": 34.785657721605325,
+        "lat": 31.26855469196561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80878586644051,
+          31.25753297760783
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d0\u05d9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d0\u05dc\u05d9 \u05db\u05d4\u05df \u05d7\u05e0\u05d4 \u05e1\u05e0\u05e9",
+        "lon": 34.80878586644051,
+        "lat": 31.25753297760783
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81977495408652,
+          31.23783388579904
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05e0\u05d7\u05dc \u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2  - \u05d2\u05d3\u05d5\u05dc",
+        "lon": 34.81977495408652,
+        "lat": 31.23783388579904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.764179191846715,
+          31.224021374975294
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e2\u05d9\u05d8",
+        "lon": 34.764179191846715,
+        "lat": 31.224021374975294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77913367358001,
+          31.231950806260777
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e6\u05d1\u05e2\u05d5\u05e0\u05d9- \u05d3\u05d5\u05d3\u05d0\u05d9\u05dd \u05de\u05d5\u05dc \u05d5\u05e8\u05d3 14",
+        "lon": 34.77913367358001,
+        "lat": 31.231950806260777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77950553446628,
+          31.243018206297986
+        ]
+      },
+      "properties": {
+        "combined1": 2,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 1,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "\u05e0\u05d3\u05e0\u05d3\u05d4 \u05e7\u05df \u05dc\u05e6\u05d9\u05e4\u05d5\u05e8",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d2\u05df \u05d1\u05e8\u05d5\u05da",
+        "lon": 34.77950553446628,
+        "lat": 31.243018206297986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.765034533008986,
+          31.226405826619242
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e2\u05d9\u05d8 \u05e0\u05e9\u05e8",
+        "lon": 34.765034533008986,
+        "lat": 31.226405826619242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76539462207452,
+          31.22785057911253
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05d9\u05e0\u05e9\u05d5\u05e3 \u05e4\u05d9\u05e0\u05ea \u05d7\u05d5\u05d7\u05d9\u05ea \u05ea\u05d7\u05ea\u05d5\u05df",
+        "lon": 34.76539462207452,
+        "lat": 31.22785057911253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76556601953458,
+          31.230807034227503
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05d0\u05e4\u05e8\u05d9\u05dd \u05dc\u05e8\u05d5\u05df",
+        "lon": 34.76556601953458,
+        "lat": 31.230807034227503
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75790631923401,
+          31.266657395088217
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05dc\u05d5\u05d6\u05d5\u05df",
+        "lon": 34.75790631923401,
+        "lat": 31.266657395088217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75968729569436,
+          31.259740905713553
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 3,
+        "other": "\u05e4\u05d9\u05e8\u05de\u05d9\u05d3\u05d4 ,\u05e1\u05e7\u05d9",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d6\u05e8\u05d9\u05e6\u05e7\u05d9 \u05e0\u05d5\u05d5\u05d4 \u05d8\u05dc \u05d0\u05e7\u05e1\u05d8\u05e8\u05d9\u05dd 3",
+        "lon": 34.75968729569436,
+        "lat": 31.259740905713553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.810827577441096,
+          31.269585370315298
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2 \u05e1\u05d1\u05d9\u05d1\u05d5\u05df",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05d5\u05d3\u05e2\u05d9 \u05de\u05d5\u05dc \u05de\u05e4\u05e2\u05dc \u05d4\u05e4\u05d9\u05e1",
+        "lon": 34.810827577441096,
+        "lat": 31.269585370315298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81624208182436,
+          31.26847510366648
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05de\u05e8\u05d3 \u05de\u05d5\u05dc 12",
+        "lon": 34.81624208182436,
+        "lat": 31.26847510366648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.775551014761085,
+          31.261122393367184
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e8\u05d7\u05d1\u05ea \u05d4\u05d7\u05d9\u05d9\u05dc",
+        "lon": 34.775551014761085,
+        "lat": 31.261122393367184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.803176492356044,
+          31.278884430464313
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e0\u05d7\u05d5\u05dd \u05d2\u05d5\u05dc\u05d3\u05de\u05df 17",
+        "lon": 34.803176492356044,
+        "lat": 31.278884430464313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77884447797186,
+          31.268936109522198
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05d0\u05d1\u05d5\u05d7\u05e6\u05d9\u05e8\u05d0 \u05de\u05e7\u05dc\u05e3 2",
+        "lon": 34.77884447797186,
+        "lat": 31.268936109522198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.779012858166496,
+          31.26886865729416
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05d0\u05d1\u05d5\u05d7\u05e6\u05d9\u05e8\u05d0 \u05de\u05e7\u05dc\u05e3 1",
+        "lon": 34.779012858166496,
+        "lat": 31.26886865729416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7733845580183,
+          31.2652130280304
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d5\u05e7\u05e0\u05d9\u05df \u05de\u05e2\u05e8\u05d1\u05d9",
+        "lon": 34.7733845580183,
+        "lat": 31.2652130280304
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.773772638808744,
+          31.265215493252583
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d5\u05e7\u05e0\u05d9\u05df \u05de\u05e8\u05db\u05d6\u05d9",
+        "lon": 34.773772638808744,
+        "lat": 31.265215493252583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77544705476613,
+          31.26581622045338
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "3",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d5\u05e7\u05e0\u05d9\u05df \u05de\u05d6\u05e8\u05d7\u05d9",
+        "lon": 34.77544705476613,
+        "lat": 31.26581622045338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80044189735271,
+          31.281925242639158
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 3,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e4\u05dc\u05d9\u05e7\u05e1 \u05e9\u05e4\u05d9\u05e8\u05d0",
+        "lon": 34.80044189735271,
+        "lat": 31.281925242639158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.797986356062154,
+          31.281874928414318
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e9\u05de\u05e9\u05d5\u05df \u05e2\u05de\u05d9\u05e6\u05d5\u05e8 -\u05e8\u05d5\u05d8\u05e0\u05e9\u05d8\u05e8\u05d9\u05d9\u05da",
+        "lon": 34.797986356062154,
+        "lat": 31.281874928414318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80002818022874,
+          31.284106424106767
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 2,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05de\u05e9\u05d4 \u05e7\u05d4\u05d9\u05e8\u05d9 -\u05e0\u05d7\u05d5\u05dd \u05e1\u05e0\u05d4",
+        "lon": 34.80002818022874,
+        "lat": 31.284106424106767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79749849020853,
+          31.28396991217762
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "3",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05d7\u05d9\u05d9\u05dd \u05e9\u05d5\u05e9\u05e0\u05d4",
+        "lon": 34.79749849020853,
+        "lat": 31.28396991217762
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.796675074897436,
+          31.284703236961008
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05d7\u05d9\u05d9\u05dd \u05e9\u05d5\u05e9\u05e0\u05d4 \u05e8\u05e4\u05d0\u05dc",
+        "lon": 34.796675074897436,
+        "lat": 31.284703236961008
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79662769805183,
+          31.28261146273133
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "7",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e2\u05de\u05d9\u05e6\u05d5\u05e8 \u05e9\u05d5\u05e9\u05e0\u05d4 \u05d8\u05d9\u05d9\u05dc\u05ea",
+        "lon": 34.79662769805183,
+        "lat": 31.28261146273133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.806257345958954,
+          31.283518277661887
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e0\u05d7\u05d5\u05dd \u05e9\u05e8\u05d9\u05d2 \u05e2\u05dc\u05d9\u05d5\u05df",
+        "lon": 34.806257345958954,
+        "lat": 31.283518277661887
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80657012349516,
+          31.28384187174027
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 4,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e0\u05d7\u05d5\u05dd \u05e9\u05e8\u05d9\u05d2 \u05ea\u05d7\u05ea\u05d5\u05df",
+        "lon": 34.80657012349516,
+        "lat": 31.28384187174027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.805409574421574,
+          31.284552010080564
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "1",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e0\u05d7\u05d5\u05dd \u05e9\u05e8\u05d9\u05d2 39",
+        "lon": 34.805409574421574,
+        "lat": 31.284552010080564
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8052881623472,
+          31.281173671821666
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e0\u05d7\u05d5\u05dd \u05e9\u05e8\u05d9\u05d2 1",
+        "lon": 34.8052881623472,
+        "lat": 31.281173671821666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.805564942013945,
+          31.28093291918198
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "3",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e0\u05d7\u05d5\u05dd \u05e9\u05e8\u05d9\u05d2 2",
+        "lon": 34.805564942013945,
+        "lat": 31.28093291918198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.805656449609856,
+          31.28081150336629
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "3",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e0\u05d7\u05d5\u05dd \u05e1\u05e8\u05d9\u05d2 3",
+        "lon": 34.805656449609856,
+        "lat": 31.28081150336629
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80590973080006,
+          31.280707292507774
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e0\u05d7\u05d5\u05dd \u05e9\u05e8\u05d9\u05d2 4",
+        "lon": 34.80590973080006,
+        "lat": 31.280707292507774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80397534952138,
+          31.280014593839443
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e0\u05d7\u05d5\u05dd \u05d2\u05d5\u05dc\u05d3\u05de\u05df \u05e2\u05dc\u05d9\u05d5\u05df",
+        "lon": 34.80397534952138,
+        "lat": 31.280014593839443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80325730333588,
+          31.28014852677332
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 3,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e0\u05d7\u05d5\u05dd \u05d2\u05d5\u05dc\u05d3\u05de\u05df \u05d0\u05de\u05e6\u05e2\u05d9",
+        "lon": 34.80325730333588,
+        "lat": 31.28014852677332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.803099914294805,
+          31.280441071077522
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e0\u05d7\u05d5\u05dd \u05d2\u05d5\u05dc\u05d3\u05de\u05df \u05ea\u05d7\u05ea\u05d5\u05df",
+        "lon": 34.803099914294805,
+        "lat": 31.280441071077522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80952538270536,
+          31.266232374234853
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05e6\u05d7\u05e7 \u05de\u05d5\u05d3\u05e2\u05d9 -\u05d9\u05e2\u05e7\u05d1 \u05de\u05e8\u05e9",
+        "lon": 34.80952538270536,
+        "lat": 31.266232374234853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.79151466949721,
+          31.23518136297146
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05e4\u05e2\u05de\u05d5\u05df",
+        "lon": 34.79151466949721,
+        "lat": 31.23518136297146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77324125487293,
+          31.2398391966267
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05d3\u05e9\u05d0 \u05e1\u05d9\u05e0\u05d8\u05d8\u05d9",
+        "Name": "\u05e4\u05e8\u05d9\u05e9\u05de\u05df \u05d7\u05d3\u05e9",
+        "lon": 34.77324125487293,
+        "lat": 31.2398391966267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.773130294462675,
+          31.23981018902694
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "2",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e4\u05e8\u05d9\u05e9\u05de\u05df",
+        "lon": 34.773130294462675,
+        "lat": 31.23981018902694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.795948205140434,
+          31.254609516791323
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e9\u05de\u05e2\u05d5\u05e0\u05d9 14 \u05e7\u05d5\u05de\u05d5\u05ea",
+        "lon": 34.795948205140434,
+        "lat": 31.254609516791323
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.792002195442315,
+          31.25625398995961
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e9\u05d3 \u05d4\u05e1\u05d5\u05e4\u05e8\u05d9\u05dd -\u05d0\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
+        "lon": 34.792002195442315,
+        "lat": 31.25625398995961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.797683887803515,
+          31.27703389595874
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 2,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 1,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e9\u05e8\u05d2\u05d0 \u05d0\u05d1\u05e8\u05de\u05e1\u05d5\u05df",
+        "lon": 34.797683887803515,
+        "lat": 31.27703389595874
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7985801895288,
+          31.277619341719433
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d1\u05e7\u05d9",
+        "lon": 34.7985801895288,
+        "lat": 31.277619341719433
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80334923258337,
+          31.28341161588849
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d2\u05dc\u05d9\u05dc\u05d9 7",
+        "lon": 34.80334923258337,
+        "lat": 31.28341161588849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.803552535717664,
+          31.28461493649071
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d2\u05dc\u05d9\u05dc\u05d9 22",
+        "lon": 34.803552535717664,
+        "lat": 31.28461493649071
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80400392857534,
+          31.283330734353875
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d2\u05dc\u05d9\u05dc\u05d9 13",
+        "lon": 34.80400392857534,
+        "lat": 31.283330734353875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80438517927341,
+          31.284574352178044
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d2\u05dc\u05d9\u05dc\u05d9 21",
+        "lon": 34.80438517927341,
+        "lat": 31.284574352178044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80508791764588,
+          31.284468559040388
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 1,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d4\u05e0\u05d2\u05d1\u05d9 \u05de\u05d9\u05db\u05d0\u05dc 14",
+        "lon": 34.80508791764588,
+        "lat": 31.284468559040388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80377619134902,
+          31.285768332216005
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 1,
+        "other": "1",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d9\u05e9\u05e8\u05d0\u05dc \u05d2\u05dc\u05d9\u05dc\u05d9 35",
+        "lon": 34.80377619134902,
+        "lat": 31.285768332216005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80301167309286,
+          31.28569674408801
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05dc\u05d5\u05d9 \u05d0\u05e9\u05db\u05d5\u05dc",
+        "lon": 34.80301167309286,
+        "lat": 31.28569674408801
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80668903467126,
+          31.268422725177835
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 2,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05d4\u05de\u05d3\u05e2 \u05d4\u05d3\u05e2\u05ea",
+        "lon": 34.80668903467126,
+        "lat": 31.268422725177835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.81128042543862,
+          31.25918074778958
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05de\u05e8\u05de\u05dc\u05d3\u05d4 2",
+        "lon": 34.81128042543862,
+        "lat": 31.25918074778958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76084826406239,
+          31.26145517135847
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 1,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05d8\u05d7 \u05d0\u05d9",
+        "lon": 34.76084826406239,
+        "lat": 31.26145517135847
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.813238674138404,
+          31.26779280520754
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d6\u05d1\u05d5\u05dc\u05d5\u05df \u05d4\u05de\u05e8- \u05db\u05e8\u05de\u05dc",
+        "lon": 34.813238674138404,
+        "lat": 31.26779280520754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76299077150152,
+          31.261784520446625
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "3",
+        "shadowing": "",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d7\u05d5\u05dc",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05d8\u05d7 \u05d0\u05d5\u05de\u05d2\u05d4",
+        "lon": 34.76299077150152,
+        "lat": 31.261784520446625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76207631446745,
+          31.26186561252693
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 2,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 3,
+        "slid": 0,
+        "carrousel": 3,
+        "spring": 5,
+        "omega": 0,
+        "roserose": 3,
+        "other": "\u05d1\u05d9\u05ea \u05d1\u05d5\u05d1\u05d5\u05ea, \u05d7\u05dc\u05dc\u05d9\u05ea,\u05de\u05e1\u05d0\u05d9\u05ea,\u05e1\u05e7\u05d9\u05d9\u05d8",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e4\u05d0\u05e8\u05e7 \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05d8\u05d7 \u05d2\u05d3\u05d5\u05dc",
+        "lon": 34.76207631446745,
+        "lat": 31.26186561252693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.75980358692385,
+          31.259802769890946
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 2,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d6\u05e8\u05d9\u05e6\u05e7\u05d9 11 -2",
+        "lon": 34.75980358692385,
+        "lat": 31.259802769890946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.76083817684427,
+          31.260135651088863
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05de\u05e9\u05d8\u05d7 \u05d2\u05d5\u05de\u05d9",
+        "Name": "\u05d6\u05e8\u05d9\u05e6\u05e7\u05d9 17 -1",
+        "lon": 34.76083817684427,
+        "lat": 31.260135651088863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.777647431405704,
+          31.231652527019765
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "",
+        "lon": 34.777647431405704,
+        "lat": 31.231652527019765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.763177744161645,
+          31.26255664257116
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05dc\u05d5\u05e0\u05d3\u05d4 \u05e4\u05e0\u05d9\u05de\u05d9",
+        "lon": 34.763177744161645,
+        "lat": 31.26255664257116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.763374801349904,
+          31.262296020012244
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05dc\u05d5\u05e0\u05d3\u05d4 \u05d7\u05d9\u05e6\u05d5\u05e0\u05d9",
+        "lon": 34.763374801349904,
+        "lat": 31.262296020012244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78699546289952,
+          31.259879229372693
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 1,
+        "SpecialCom": 0,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05de\u05d1\u05e6\u05e2 \u05e0\u05d7\u05e9\u05d5\u05df 48 \u05d7\u05d3\u05e9",
+        "lon": 34.78699546289952,
+        "lat": 31.259879229372693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.773405960201174,
+          31.24390277949924
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 1,
+        "Swing": 2,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "\u05d0\u05d5\u05e4\u05e0\u05d9\u05d9\u05dd + \u05e1\u05e4\u05e1\u05dc \u05db\u05e8\u05d9\u05e9",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05d3\u05e9\u05d0 \u05e1\u05d9\u05e0\u05d8\u05d8\u05d9",
+        "Name": "\u05de\u05d2\u05d9\u05d3\u05d5",
+        "lon": 34.773405960201174,
+        "lat": 31.24390277949924
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.800698390602655,
+          31.2484334372495
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e9\u05e4\u05e8\u05d9\u05e8",
+        "lon": 34.800698390602655,
+        "lat": 31.2484334372495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.80008606550554,
+          31.284171247278064
+        ]
+      },
+      "properties": {
+        "combined1": 1,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 1,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 1,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "\u05d3\u05e9\u05d0 \u05e1\u05d9\u05e0\u05d8\u05d8\u05d9",
+        "Name": "\u05de\u05e9\u05d4 \u05e7\u05d4\u05d9\u05e8\u05d9 -\u05e0\u05d7\u05d5\u05dd \u05e1\u05e0\u05d4 \u05e4\u05e2\u05d5\u05d8\u05d5\u05ea",
+        "lon": 34.80008606550554,
+        "lat": 31.284171247278064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.773922448738084,
+          31.243861556578974
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "\u05e1\u05e4\u05e1\u05dc \u05db\u05e8\u05d9\u05e9.",
+        "shadowing": "\u05d9\u05e9",
+        "surface": "\u05d3\u05e9\u05d0 \u05e1\u05d9\u05e0\u05d8\u05d8\u05d9",
+        "Name": "\u05e9\u05e6\"\u05e4 \u05de\u05d2\u05d9\u05d3\u05d5",
+        "lon": 34.773922448738084,
+        "lat": 31.243861556578974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.771105399119094,
+          31.256833939766423
+        ]
+      },
+      "properties": {
+        "combined1": 0,
+        "combined2": 0,
+        "combined3": 0,
+        "SpecialCom": 0,
+        "Swing": 0,
+        "slid": 0,
+        "carrousel": 0,
+        "spring": 0,
+        "omega": 0,
+        "roserose": 0,
+        "other": "",
+        "shadowing": "",
+        "surface": "",
+        "Name": "\u05e8\u05d3\"\u05e7",
+        "lon": 34.771105399119094,
+        "lat": 31.256833939766423
+      }
+    }
+  ]
+}
