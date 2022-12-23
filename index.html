@@ -71,7 +71,7 @@ function format_number(num) {
         .replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,");
 }
 
-fetch("data/playgroounds.geojson")
+fetch("data/stat.geojson")
     .then(function(response) {
         return response.json();
     })
@@ -81,9 +81,9 @@ fetch("data/playgroounds.geojson")
             onEachFeature: function(feature, layer) {
                 layer.bindPopup(
                     '<div class="popup">' + 
-                    feature.properties.shadowing + "<br>" + 
-                    feature.properties.Name + "<br>" + 
-                    format_number(Math.round(feature.properties.Swing)) + ' km<sup>-2</sup>' +
+                    feature.properties.YISHUV_STAT11 + "<br>" + 
+                    feature.properties.SHEM_YISHUV_ENGLISH + "<br>" + 
+                    format_number(Math.round(feature.properties.density)) + ' km<sup>-2</sup>' +
                     '</div>'
                 );
             }
