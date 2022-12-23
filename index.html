@@ -64,6 +64,12 @@ function stat_style(feature) {
         fillOpacity: 0.7
     };
 }
+        
+function format_number(num) {
+    return num
+        .toString()
+        .replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,");
+}
 
 fetch("data/stat.geojson")
     .then(function(response) {
@@ -77,7 +83,7 @@ fetch("data/stat.geojson")
                     '<div class="popup">' + 
                     feature.properties.YISHUV_STAT11 + "<br>" + 
                     feature.properties.SHEM_YISHUV_ENGLISH + "<br>" + 
-                    Math.round(feature.properties.density) + ' km<sup>-2</sup>' +
+                    format_number(Math.round(feature.properties.density)) + ' km<sup>-2</sup>' +
                     '</div>'
                 );
             }
