@@ -71,7 +71,7 @@ function format_number(num) {
         .replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,");
 }
 
-fetch("data/stat.geojson")
+fetch("data/Council_owned_trees.geojson")
     .then(function(response) {
         return response.json();
     })
